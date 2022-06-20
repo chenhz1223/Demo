@@ -1,0 +1,7 @@
+name = "Demo"
+uuid = "62fff518-8183-4f59-9a43-b206fc622b4d"
+authors = ["chenhz1223 <92123913+chenhz1223@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
